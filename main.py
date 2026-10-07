@@ -4,3 +4,7 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+
+whole_number = int(input("Please type a whole number: "))
+phrase = input("Please type a phrase: ")
+print(phrase * whole_number)
